@@ -4,7 +4,7 @@ This is a hand-coded Rock-Paper-Scissors game originally developed as a school p
 
 ## Overview
 
-The game displays a simple interface where the user can select Rock, Paper, or Scissors against a computer opponent. The computer's choice is randomized, and although there is currently no score tracking, the UI includes dynamic text "Ready? Here we go! Rock! Paper! Scissors!" and interactive buttons. After a round completes, the "Let's Go!" button changes to "Play Again?" and the hand icons display color-coded outcomes (for instance, the player's hand might appear in orange and the computer's in pink, with a combination of colors if there’s a tie).
+The game displays a simple interface where the user can select Rock, Paper, or Scissors against a computer opponent. The computer's choice is randomized, and although there is currently no score tracking, the UI includes dynamic text "Ready? Here we go! Rock! Paper! Scissors!" and interactive buttons. After a round completes, the "Let's Go!" button changes to "Play Again?" and the hand icons display color-coded outcomes (for instance, the player's hand is orange and the computer's is pink, with a combination of colors if there’s a tie).
 
 As part of the project requirements, design choices were captured using Figma based on a provided reference image. This process helped guide the visual layout and overall user experience, ensuring that the final implementation adheres closely to the original design intent.
 
