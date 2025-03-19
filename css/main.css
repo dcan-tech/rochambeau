@@ -1,19 +1,28 @@
+/* CSS Reset */
 @import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+
+/* Box Sizing & Font Smoothing */
 * {
   -webkit-font-smoothing: antialiased;
   box-sizing: border-box;
 }
-html,
-body {
+
+/* Full-height layout for entire page */
+html, body {
   margin: 0px;
   height: 100%;
 }
-/* a blue color as a generic focus style */
+
+/* Focus styles for accessibility */
 button:focus-visible {
   outline: 2px solid #4a90e2 !important;
   outline: -webkit-focus-ring-color auto 5px !important;
 }
+
+/* Remove default underline from links */
 a {
   text-decoration: none;
 }
+
+/* Google Font Import */
 @import url("https://fonts.googleapis.com/css?family=Inter:700,600");

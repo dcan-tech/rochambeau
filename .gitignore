@@ -1,0 +1,17 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore dependency folders
+node_modules/
+package-lock.json
+
+# Ignore local environment files
+.env
+
+# Ignore compiled & temporary files
+*.log
+*.tmp
+
+# Ignore IntelliJ IDEA project files
+.idea/

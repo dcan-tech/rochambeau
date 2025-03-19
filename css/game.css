@@ -68,19 +68,19 @@ html, body {
 
 .hand-paper:hover {
   transform: scale(.95); 
-  background-image: url("img/hand-paper-hover.svg"); 
+  background-image: url("../assets/img/hand-paper-hover.svg");
 }
 
 .hand-paper.selected {
-  background-image: url("img/hand-paper-orange.svg");
+  background-image: url("../assets/img/hand-paper-orange.svg");
 }
 
 .hand-paper.computer-selected {
-  background-image: url("img/hand-paper-pink.svg");
+  background-image: url("../assets/img/hand-paper-pink.svg");
 }
 
 .hand-paper-draw {
-  background-image: url('img/hand-paper-draw.svg');
+  background-image: url('../assets/img/hand-paper-draw.svg');
 }
 
 /* Rock Element */
@@ -95,19 +95,19 @@ html, body {
 
 .hand-rock:hover {
   transform: scale(.95);
-  background-image: url("img/hand-rock-hover.svg");
+  background-image: url("../assets/img/hand-rock-hover.svg");
 }
 
 .hand-rock.selected {
-  background-image: url("img/hand-rock-orange.svg");
+  background-image: url("../assets/img/hand-rock-orange.svg");
 }
 
 .hand-rock.computer-selected {
-  background-image: url("img/hand-rock-pink.svg");
+  background-image: url("../assets/img/hand-rock-pink.svg");
 }
 
 .hand-rock-draw {
-  background-image: url('img/hand-rock-draw.svg');
+  background-image: url('../assets/img/hand-rock-draw.svg');
 }
 
 /* Scissor Element */
@@ -122,19 +122,19 @@ html, body {
 
 .hand-scissors:hover {
   transform: scale(.95);
-  background-image: url("img/hand-scissors-hover.svg");
+  background-image: url("../assets/img/hand-scissors-hover.svg");
 }
 
 .hand-scissors.selected {
-  background-image: url("img/hand-scissors-orange.svg");
+  background-image: url("../assets/img/hand-scissors-orange.svg");
 }
 
 .hand-scissors.computer-selected {
-  background-image: url("img/hand-scissors-pink.svg");
+  background-image: url("../assets/img/hand-scissors-pink.svg");
 }
 
 .hand-scissors-draw {
-  background-image: url('img/hand-scissors-draw.svg');
+  background-image: url('../assets/img/hand-scissors-draw.svg');
 }
 
 /* Rock, Paper, Scissor Banner */
@@ -163,7 +163,7 @@ html, body {
   top: 845px;
   left: 50%;
   transform: translateX(-50%);
-  background-image: url(./img/rectangle-1.svg);
+  background-image: url(../assets/img/rectangle-1.svg);
   background-size: 100% 100%;
 }
 
