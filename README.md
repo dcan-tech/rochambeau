@@ -59,6 +59,8 @@ To run the game locally:
   Consider adding multiple rounds or multiplayer features.
 - **UI/UX Improvements:**  
   Refine animations, button interactions, and overall layout for a smoother user experience.
+- **Sound Effects:**
+  Current iteration has no sound.
 
 ## Credits
 
