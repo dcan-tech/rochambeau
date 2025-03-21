@@ -11,7 +11,7 @@ As part of the project requirements, design choices were captured using Figma ba
 ## Features
 
 - **Responsive Design Goal:**  
-  Currently, the game displays correctly in one resolution only. An ongoing goal is to make the UI responsive and adaptive for various devices using a mobile-first approach.
+  Currently, the game displays correctly in one resolution only (1920 x 1080). An ongoing goal is to make the UI responsive and adaptive for various devices using a mobile-first approach.
 
 - **Randomized Computer Choice:**  
   The computer randomly selects its move from Rock, Paper, or Scissors.
